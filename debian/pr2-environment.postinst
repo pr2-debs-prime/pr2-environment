@@ -120,6 +120,7 @@ case "$1" in
     fi	
 
     # Update grub
+    # DFS need to find correct kernel version
     sudo grub-set-default "Ubuntu, with Linux 3.19.0-49-lowlatency"
 
     ;;
