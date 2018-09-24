@@ -1,3 +1,9 @@
+pr2-environment (0.5.89-xenial) trusty; urgency=medium
+
+  * removed unnecessary dependency on pr2-teleop-app
+
+ -- David Feil-Seifer <dfseifer@azrael>  Mon, 24 Sep 2018 15:28:54 -0700
+
 pr2-environment (0.5.88-xenial) trusty; urgency=medium
 
   * updated control file to use kinetic packages
