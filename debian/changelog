@@ -1,3 +1,9 @@
+pr2-environment (0.5.90-xenial) trusty; urgency=medium
+
+  * removed dependency on pr2-kernel package
+
+ -- David Feil-Seifer <dfseifer@azrael>  Tue, 25 Sep 2018 10:49:28 -0700
+
 pr2-environment (0.5.89-xenial) trusty; urgency=medium
 
   * removed unnecessary dependency on pr2-teleop-app
