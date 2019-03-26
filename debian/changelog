@@ -1,3 +1,9 @@
+pr2-environment (0.5.92-xenial) xenial; urgency=medium
+
+  * updated control file to add unr-sixad package (replaced generic sixad package no longer available as of 16.04
+
+ -- David Feil-Seifer <dave@cse.unr.edu>  Tue, 26 Mar 2019 10:18:37 -0700
+
 pr2-environment (0.5.91-xenial) trusty; urgency=medium
 
   * removed dependencies required for bluetooth joystick (deprecated in 16.04)
